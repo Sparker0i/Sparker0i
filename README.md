@@ -15,11 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Often known by my username: **Sparker0i**
+Often known by my username: **Sparker0i**.
 
 Formerly, I used to develop Android mobile applications. 
 
 Now I'm a Cloud Native Application Developer, working at IBM India Pvt. Limited.
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Sparker0i/count.svg" />
+</p>
 
 - 🔭 I’m currently working on Spark, Kafka, Scala, Docker, Kubernetes and Openshift
 - 🌱 I’m currently learning Avro
