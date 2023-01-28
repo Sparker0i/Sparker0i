@@ -27,8 +27,8 @@ Now I'm a Cloud Native Application Developer, working at IBM India Pvt. Limited.
 </p>
 
 - 🔭 I’m currently working on Spark, Kafka, Scala, Docker, Kubernetes and Openshift
-- 🌱 I’m currently learning Avro
+- 🌱 I’m currently learning NodeJS and Angular
 - 👯 I’m looking to collaborate on Big Data Projects on Cloud
 - 💬 Ask me about all the topics I've listed above
-- 📫 How to reach me: [E-mail](mailto:sparker0i@hey.com), [LinkedIn](https://www.linkedin.com/in/sparker0i), [Twitter](https://twitter.com/Sparker0i)
+- 📫 How to reach me: [E-mail](mailto:aaditya@sparker0i.me), [LinkedIn](https://www.linkedin.com/in/sparker0i), [Twitter](https://twitter.com/Sparker0i)
 - ⚡ Fun fact: Nothing unusual. I love Gaming and Cooking.
