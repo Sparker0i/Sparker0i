@@ -21,11 +21,6 @@ Formerly, I used to develop Android mobile applications.
 
 Now I'm a Backend Developer, working at NetApp. Formerly, I worked at IBM as a Full Stack Developer.
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Sparker0i/count.svg" />
-</p>
-
 - 🔭 My current tech stack includes NodeJS, Go, React, Kubernetes, Azure. I have also worked on Spark, Scala, Kafka, OpenShift, Angular.
 - 🌱 I’m currently learning AWS and Deep Learning
 - 👯 I’m looking to collaborate on Open Source Projects revolving around Big Data
