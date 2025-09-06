@@ -17,13 +17,14 @@ Here are some ideas to get you started:
 
 Often known by my username: **Sparker0i**.
 
-Formerly, I used to develop Android mobile applications. 
+![](https://komarev.com/ghpvc/?username=Sparker0i&color=brightgreen)
 
-Now I'm a Backend Developer, working at NetApp. Formerly, I worked at IBM as a Full Stack Developer.
+Formerly, I used to develop Android mobile applications. Now I'm a Backend Developer @NetApp. Before that, I worked @IBM as a Full Stack Developer.
 
-- 🔭 My current tech stack includes NodeJS, Go, React, Kubernetes, Azure. I have also worked on Spark, Scala, Kafka, OpenShift, Angular.
+- 🔭 My current tech stack includes NodeJS, Go, Kubernetes, Azure. I have also worked on Spark, Scala, Kafka, OpenShift, Angular.
 - 🌱 I’m currently learning AWS and Deep Learning
 - 👯 I’m looking to collaborate on Open Source Projects revolving around Big Data
+- 🤔 I’m looking for help with AI driven SaaS development and maintenance
 - 💬 Ask me about all the topics I've listed above
 - 📫 How to reach me: [E-mail](mailto:aaditya@sparker0i.me), [LinkedIn](https://www.linkedin.com/in/sparker0i), [Twitter](https://twitter.com/Sparker0i)
 - ⚡ Fun fact: Nothing unusual. I love Gaming and Cooking, and I'm a die hard RCB fan!!
